@@ -106,7 +106,7 @@ roleId: null,
     {
         id: 'lucky_charm',
         name: '🍀 Lucky Charm',
-        price: 0,
+        price: 10000,
         description: 'Increases luck for gambling. Has 3 uses before being consumed.',
         type: 'consumable',
         maxQuantity: 10,
